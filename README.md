@@ -10,12 +10,10 @@ This project demonstrates fine-tuning **BERT** for **sentiment analysis in Engli
 
 ---
 
-## 🚀 Getting Started
-
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/customer-opinion-mining.git
-cd customer-opinion-mining
+git clone https://github.com/alyanumair/customer-opinion-mining-bert.git
+cd customer-opinion-mining-bert
 ```
 
 ### 2️⃣ Install dependencies
